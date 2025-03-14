@@ -29,4 +29,4 @@ if (arr.length >= 2) {
     arrArithmeticProgression(arr);
 } else {
     console.log("Mảng không đủ phần tử để kiểm tra!");
-}
+} 

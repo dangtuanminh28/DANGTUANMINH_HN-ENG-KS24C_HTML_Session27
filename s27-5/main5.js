@@ -35,4 +35,4 @@ while (i < total) {
 
 let parts = +prompt("Nhập số mảng con:");
 let result = splitArray(arr, parts);
-console.log("Mảng sau khi tách:", result);
+console.log("Mảng sau khi tách:", result); 
